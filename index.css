@@ -1,0 +1,634 @@
+.continer{
+    width: 80%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.continer .logo{
+    float: left;
+
+}
+.continer .logo img{
+    width: 150px;
+    height: 50px;
+}
+.continer .search{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  
+
+}
+.continer .search button img {
+    height: 20px;
+    
+}
+.continer .log_btn button {
+    float: right;
+    height: 30px;
+    border-radius: 10px;
+    width: 100px;
+    
+    
+   
+
+}
+.continer .log_btn button:hover{
+    background-color: #ff9966;
+}
+.continer .log_btn button a{
+    text-decoration: none;
+    color: #6AB802;
+    font-size: 20px;
+   
+}
+.topnav {
+    overflow: hidden;
+    background-color: #6AB802;
+   
+  }
+  
+  .topnav a {
+    float: left;
+    display: block;
+    color:rgb(255, 255, 255) ;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  
+  }
+  
+  .topnav a:hover {
+    background-color: #ff9966;
+    color: black;
+  }
+  
+ 
+  
+  .topnav .icon {
+    display: none;
+  }
+  
+.products{
+    width: 80%;
+  justify-content: space-around;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+   
+}
+.products .product-1{
+    width: 30%;
+    height: 313px;;
+    background-color: #6AB802;
+    margin: 2%;
+    
+}
+.products .product-1 a{
+    text-decoration: none;
+    color: black;
+ 
+
+}
+.products .product-1 img{
+    width: 150px;
+    height: 100px;
+
+}
+.products .product-1 h1{
+    font-size: 20px;
+
+}
+.products .product-1 h2{
+    font-size: 15px;
+
+}
+.products .product-1 button{
+    width: 100px;
+    height: 30px;
+    
+}
+.products .product-1 button:hover{
+    background-color: blue;
+    color: red;
+}
+
+.products .product-2{
+    width: 30%;
+    height: 313px;
+    background-color: #6AB802;
+    margin: 2%;
+    
+}
+.products .product-2 a{
+    text-decoration: none;
+    color: black;
+
+}
+.products .product-2 img{
+    width: 150px;
+    height: 100px;
+
+}
+.products .product-2 h1{
+    font-size: 20px;
+
+}
+.products .product-2 h2{
+    font-size: 15px;
+
+}
+.products .product-2 button{
+    width: 100px;
+    height: 30px;
+    
+}
+.products .product-2 button:hover{
+    background-color: blue;
+    color: red;
+}
+.products .product-3{
+    width: 30%;
+    height: 313px;
+    background-color: #6AB802;
+    margin: 2%;
+    
+}
+.products .product-3 a{
+    text-decoration: none;
+    color: black;
+
+}
+.products .product-3 img{
+    width: 150px;
+    height: 100px;
+
+}
+.products .product-3 h1{
+    font-size: 20px;
+
+}
+.products .product-3 h2{
+    font-size: 15px;
+
+}
+.products .product-3 button{
+    width: 100px;
+    height: 30px;
+    
+}
+.products .product-3 button:hover{
+    background-color: blue;
+    color: red;
+}
+.products .product-4{
+    width: 30%;
+    height: 313px;
+    background-color: #6AB802;
+    margin: 2%;
+    
+}
+.products .product-4 a{
+    text-decoration: none;
+    color: black;
+
+}
+.products .product-4 img{
+    width: 150px;
+    height: 100px;
+
+}
+.products .product-4 h1{
+    font-size: 20px;
+
+}
+.products .product-4 h2{
+    font-size: 15px;
+
+}
+.products .product-4 button{
+    width: 100px;
+    height: 30px;
+    
+}
+.products .product-4 button:hover{
+    background-color: blue;
+    color: red;
+}
+
+.products .product-5{
+    width: 30%;
+    height: 313px;
+    background-color: #6AB802;
+    margin: 2%;
+    
+}
+.products .product-5 a{
+    text-decoration: none;
+    color: black;
+
+}
+.products .product-5 img{
+    width: 150px;
+    height: 100px;
+
+}
+.products .product-5 h1{
+    font-size: 20px;
+
+}
+.products .product-5 h2{
+    font-size: 15px;
+
+}
+.products .product-5 button{
+    width: 100px;
+    height: 30px;
+    
+}
+.products .product-5 button:hover{
+    background-color: blue;
+    color: red;
+}
+.products .product-6{
+    width: 30%;
+    height: 313px;
+    background-color: #6AB802;
+    margin: 2%;
+    
+}
+.products .product-6 a{
+    text-decoration: none;
+    color: black;
+
+}
+.products .product-6 img{
+    width: 150px;
+    height: 100px;
+
+}
+.products .product-6 h1{
+    font-size: 20px;
+
+}
+.products .product-6 h2{
+    font-size: 15px;
+
+}
+.products .product-6 button{
+    width: 100px;
+    height: 30px;
+    
+}
+.products .product-6 button:hover{
+    background-color: blue;
+    color: red;
+}
+.footer{
+    background-color: #6AB802;
+    display: flex;
+    
+}
+.base a {
+    text-decoration: none;
+   color: white;
+   font-size: 20px;
+}
+.base a:hover{
+    color: #ff9966;
+}
+.social{
+    margin-right: auto;
+   margin-left: auto;
+   text-align: center;
+}
+.social p{
+    font-size: 20px;
+
+}
+.social img{
+    height: 25px;
+    margin: 20px;
+    border-radius: 20ox;
+}
+.social img a{
+    text-decoration: none;
+}
+.pro_dust{
+    width: 80%;
+    justify-content: space-around;
+      display: flex;
+      margin-left: auto;
+      margin-right: auto;
+      text-align: center;
+     
+   
+    
+}
+.pro_dust .pro_1{
+    width: 30%;
+    height: 313px;
+    background-color: #6AB802;
+    margin: 2%;
+    text-align: center;
+    
+    
+
+}
+.pro_dust .pro_1 img{
+    width: 150px;
+    height: 100px;
+    
+}
+
+.pro_dust .pro_1  a{
+    text-decoration: none;
+    color: black;
+}
+.pro_dust .pro_1 button{
+    width: 100px;
+    height: 30px;
+
+}
+
+.pro_dust .pro_1 button:hover{
+    background-color: blue;
+    color: red;
+}
+
+.pro_dust .pro_1 h1{
+   font-size: 20px; 
+}
+.pro_dust .pro_1 h2{
+    font-size: 15px;
+}
+.pro_dust .pro_2{
+    width: 30%;
+    height: 313px;
+    background-color: #6AB802;
+    margin: 2%;
+    text-align: center;
+    
+    
+
+}
+.pro_dust .pro_2 img{
+    width: 150px;
+    height: 100px;
+    
+}
+
+.pro_dust .pro_2  a{
+    text-decoration: none;
+    color: black;
+}
+.pro_dust .pro_2 button{
+    width: 100px;
+    height: 30px;
+
+}
+
+.pro_dust .pro_2 button:hover{
+    background-color: blue;
+    color: red;
+}
+
+.pro_dust .pro_2 h1{
+   font-size: 20px; 
+}
+.pro_dust .pro_2 h2{
+    font-size: 15px;
+}
+.pro_dust .pro_3{
+    width: 30%;
+    height: 313px;
+    background-color: #6AB802;
+    margin: 2%;
+    text-align: center;
+    
+    
+
+}
+.pro_dust .pro_3 img{
+    width: 150px;
+    height: 100px;
+    
+}
+
+.pro_dust .pro_3  a{
+    text-decoration: none;
+    color: black;
+}
+.pro_dust .pro_3 button{
+    width: 100px;
+    height: 30px;
+
+}
+
+.pro_dust .pro_3 button:hover{
+    background-color: blue;
+    color: red;
+}
+
+.pro_dust .pro_3 h1{
+   font-size: 20px; 
+}
+.pro_dust .pro_3 h2{
+    font-size: 15px;
+}
+.pro_dust .pro_4{
+    width: 30%;
+    height: 313px;
+    background-color: #6AB802;
+    margin: 2%;
+    text-align: center;
+    
+    
+
+}
+.pro_dust .pro_4 img{
+    width: 150px;
+    height: 100px;
+    
+}
+
+.pro_dust .pro_4  a{
+    text-decoration: none;
+    color: black;
+}
+.pro_dust .pro_4 button{
+    width: 100px;
+    height: 30px;
+
+}
+
+.pro_dust .pro_4 button:hover{
+    background-color: blue;
+    color: red;
+}
+
+.pro_dust .pro_4 h1{
+   font-size: 20px; 
+}
+.pro_dust .pro_4 h2{
+    font-size: 15px;
+}
+.pro_dust .pro_5{
+    width: 30%;
+    height: 313px;
+    background-color: #6AB802;
+    margin: 2%;
+    text-align: center;
+    
+    
+
+}
+.pro_dust .pro_5 img{
+    width: 150px;
+    height: 100px;
+    
+}
+
+.pro_dust .pro_5  a{
+    text-decoration: none;
+    color: black;
+}
+.pro_dust .pro_5 button{
+    width: 100px;
+    height: 30px;
+
+}
+
+.pro_dust .pro_5 button:hover{
+    background-color: blue;
+    color: red;
+}
+
+.pro_dust .pro_5 h1{
+   font-size: 20px; 
+}
+.pro_dust .pro_5 h2{
+    font-size: 15px;
+}
+.pro_dust .pro_6{
+    width: 30%;
+    height: 313px;
+    background-color: #6AB802;
+    margin: 2%;
+    text-align: center;
+    
+    
+
+}
+.pro_dust .pro_6 img{
+    width: 150px;
+    height: 100px;
+    
+}
+
+.pro_dust .pro_6  a{
+    text-decoration: none;
+    color: black;
+}
+.pro_dust .pro_6 button{
+    width: 100px;
+    height: 30px;
+
+}
+
+.pro_dust .pro_6 button:hover{
+    background-color: blue;
+    color: red;
+}
+
+.pro_dust .pro_6 h1{
+   font-size: 20px; 
+}
+.pro_dust .pro_6 h2{
+    font-size: 15px;
+}
+.menu .icon{
+    display: none;
+}
+.produst_x {
+    display: flex;
+}
+.produst_Y{
+    display: flex;
+}
+.produst_a {
+    display: flex;
+}
+.produst_b {
+    display: flex;
+}
+@media screen and (max-width: 768px) {
+    .topnav a:not(:first-child) {display: none;}
+    .topnav a.icon {
+      float: right;
+      display: block;
+    }
+  }
+  
+  @media screen and (max-width: 768px) {
+    .topnav.responsive {position: relative;}
+    .topnav.responsive .icon {
+      position: absolute;
+      right: 0;
+      top: 0;
+    }
+    .topnav.responsive a {
+      float: none;
+      display: block;
+      text-align: left;
+    }
+    
+    .continer .logo{
+        float: left;
+    }
+    .continer .logo img {
+        width: 60px;
+        height: 40px;
+
+}
+.continer .log_btn .logo{
+    float: right;
+    display: flex;
+}
+.continer .log_btn {
+   display: flex;
+    float: right;
+}
+.continer .search{
+    width: 20%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+}  
+.continer .log_btn button{
+    width: 70px;
+    height: 20px;
+}
+.continer .log_btn button a{
+    font-size: 10px;
+    
+}  
+.products {
+    display: grid;
+}
+body{
+    padding: 0%;
+    margin: 0%;
+}
+
+.pro_dust{
+    display: grid;
+}
+
+}
+    
+  
